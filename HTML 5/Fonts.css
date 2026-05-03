@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "FontTec";
+    src: url('fonts/cubic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "FontPixel";
+    src: url('fonts/pixellcd.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}

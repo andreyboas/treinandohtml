@@ -1,0 +1,30 @@
+/* esta e a forma de aplicar CSS em uma TAG */
+h1 {
+    color: blue;
+    }
+    
+/* aplicando CSS em uma CLASS */
+/* lembrando que a CLASS nao pode ter separar, pois considera como se fosse duas CLASS
+crie de forma composta "ExemploClass" e nao "Exemplo Class" */
+.TextVerme {
+    color: red;
+    }
+
+/* forma de aplicar CSS em uma ID */
+#TextPrinc {
+    font-size: 30px;
+    }
+
+/* daqui pra baixo vamos mexer com o index.html */
+footer {
+    color: blueviolet;
+    font-size: 35px;
+    font-weight: bold;
+    text-align: left;
+}
+
+#PgIndex {
+    font-size: 40px;
+    color: blueviolet;
+    text-align: center;
+}
